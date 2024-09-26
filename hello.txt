@@ -4,4 +4,4 @@ hello git!
 hello git!
 hello git!
 hello git!
-change in three times
+this is master
